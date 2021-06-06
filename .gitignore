@@ -1,0 +1,10 @@
+
+*.xml
+aula02/build/classes/.netbeans_update_resources
+aula02/build/classes/.netbeans_automatic_build
+*.jar
+*.properties
+*.class
+*.mf
+HelloWorld/build/classes/.netbeans_automatic_build
+HelloWorld/build/classes/.netbeans_update_resources
